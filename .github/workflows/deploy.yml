@@ -1,4 +1,4 @@
-name: sublinkconvert
+name: Deploy Worker
 on:
   workflow_dispatch:
   repository_dispatch:
